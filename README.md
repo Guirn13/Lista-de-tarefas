@@ -11,7 +11,7 @@ Este projeto é uma aplicação de Lista de Tarefas interativa que permite reorg
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Lista-de-tarefas.git
+   git clone https://github.com/Guirn13/Lista-de-tarefas.git
    ```
 
 2. Acesse a pasta do projeto:
