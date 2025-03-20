@@ -21,7 +21,7 @@ Este projeto é uma aplicação de Lista de Tarefas interativa que permite reorg
 
 3. Instale as dependências:
    ```bash
-   npm install
+   yarn install
    ```
 
 4. Execute o projeto:
